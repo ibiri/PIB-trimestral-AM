@@ -1,0 +1,20 @@
+Atividades	%
+Agricultura	2,03%
+Pecuária	0,62%
+Produção florestal, pesca e aquicultura	1,28%
+Indústrias extrativas	1,05%
+Indústrias de transformação	22,46%
+SIUP	4,01%
+Construção	3,23%
+Comércio 	8,57%
+Transporte, armazenagem e correio	3,04%
+Alojamento e alimentação	1,40%
+Informação e comunicação	1,36%
+Atividades financeiras, de seguros e serviços relacionados	1,79%
+Atividades imobiliárias	6,47%
+Atividades profissionais	3,98%
+Administração pública	16,84%
+Educação e saúde privadas	1,94%
+Artes e lazer	1,00%
+Serviços domésticos	0,64%
+Impostos	18,27%
